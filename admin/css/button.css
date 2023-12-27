@@ -1,0 +1,46 @@
+/*add button*/
+.buttonAd{
+  background-color: #DB7093;
+  border: 2px solid #fff;
+  padding: 7px 12px;
+  text-align: center;
+  font-size: 18px;
+  margin: 5px 5px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  float:right;
+}
+.buttonAd:hover {background-color: #fff;
+}
+
+
+
+/*update button*/
+.button1{
+  background-color: white;
+  border: 2px solid #008CBA;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 13px;
+  margin: 2px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1:hover {background-color: #008CBA;
+}
+/*delete button*/
+.button2{
+  background-color: white;
+  border: 2px solid #f44336;
+  padding: 5px 12px;
+  text-align: center;
+  display: inline-block;
+  font-size: 13px;
+  margin: 2px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+}
+.button2:hover {
+  background-color: #f44336;
+}
